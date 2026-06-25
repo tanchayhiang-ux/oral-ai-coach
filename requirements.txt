@@ -1,0 +1,6 @@
+streamlit
+openai
+pandas
+openpyxl
+Pillow
+streamlit-mic-recorder
